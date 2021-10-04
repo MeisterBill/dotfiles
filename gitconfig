@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthurvde@hotmail.fr
+	name = Arthur van der Elst
